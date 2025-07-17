@@ -39,9 +39,11 @@ bash finetune_s3prl_model.sh python3 asr train causal_hubert_trans_base_iter2 ./
 
 ## 📚 Citation
 If you find this codebase helpful, please consider citing our paper:
+```
 @article{lin2025exploration,
   title   = {An Exploration of Mamba for Speech Self‑Supervised Models},
   author  = {Tzu‑Quan Lin and Heng‑Cheng Kuo and Tzu‑Chieh Wei and Hsi‑Chun Cheng and Chun‑Wei Chen and Hsien‑Fu Hsiao and Yu Tsao and Hung‑yi Lee},
   journal = {arXiv preprint arXiv:2506.12606},
   year    = {2025}
 }
+```
